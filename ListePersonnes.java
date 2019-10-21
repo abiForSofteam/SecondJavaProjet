@@ -1,6 +1,6 @@
 package org.eclipse.model;
 
-public class ListePersonnes {
+/*public class ListePersonnes {
 	Personne[] personnes = new Personne[10];
 
 	public Personne findByNom(String s) {
@@ -64,4 +64,4 @@ public class ListePersonnes {
 		this.personnes = personnes;
 	}
 
-}
+}*/
